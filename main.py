@@ -52,3 +52,5 @@ if __name__ == '__main__':
 
     radar.ax.legend()
 pl.show()
+
+# unfortunately... we forgot to keep track of sources
